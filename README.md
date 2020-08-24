@@ -1,1 +1,3 @@
-# Bash_Learning
+# Bash
+
+Basics coding with BASH. 
